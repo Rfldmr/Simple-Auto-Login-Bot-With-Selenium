@@ -2,26 +2,25 @@
 Auto-login bot ini memungkinkan kamu melakukan login ke suatu website secara otomatis tanpa perlu membuka website secara manual. 
 
 Tools, software, dan bahasa yang digunakan :
-[Python](https://nodejs.org "NodeJS"),
-[Selenium](https://expressjs.com "Express JS"),
+[Python](https://python.org/),
+[Selenium](https://selenium.dev/),
 Visual Studio Code,
 Chromedriver.
 
 ------------
 
 ### How to use :
-> Pastikan kamu telah menginstall [Python](https://www.python.org/), [Selenium](https://www.selenium.dev/) dan [Chromedriver](https://developer.chrome.com/docs/chromedriver/downloads) di perangkatmu.
 
-1. *Clone repository*
-2. Import SQL ke dalam RDBMS,
-3. Buka terminal / cmd / bash,
-4. Jalankan perintah
-`npm i` atau `npm install` untuk menginstall *dependencies*,
-5. Ketika package dependencies sudah tersimpan, ketik perintah
-`nodemon server`
+1. Pastikan kamu telag menginstall [Python](https://python.org/) di perangkatmu sebelumnya
+2. Buka terminal / CMD
+3. Jalankan perintah `pip install selenium` di terminal untuk menginstall Selenium
+4. Unduh file atau akses code di [web_auto_login.py](https://github.com/Rfldmr/Simple-Auto-Login-Bot-With-Selenium/blob/main/web_auto_login.py)
+5. Ganti value dari XPATH sesuai dengan element dari website yang akan kamu pakai
+6. Jalankan program
+   
 
 ------------
 
 
 ### Develop by: 
-> [Rafli Damara](https://github.com/Rfldmr)
+> [Rafli Damara](https://github.com/Rfldmr) Refers to [geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-build-a-simple-auto-login-bot-with-python/)
